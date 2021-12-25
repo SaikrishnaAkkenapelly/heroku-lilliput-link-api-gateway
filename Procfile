@@ -1,0 +1,1 @@
+web: java -jar target/API-Gateway-0.0.1-API-Gateway.jar
